@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app-body {
+    background-image: url("C:/Users/lasky/Downloads/menachem-weinreb-qgyyK3QVy9g-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.api-call-section {
+    color: rgb(255, 255, 255);
+}
+
+.main-title {
+    text-align: center;
+    padding: 1em;
+}
+
+.app-descrp {
+    text-align: center;
+    max-width: 250px;
+    margin: 0 auto;
+    padding-bottom: 1em;
+}
+
+.label-style p {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0.5em;
+}
+
+.label-style > input {
+ display: flex;
+ text-align: center;
+ margin: 0 auto;
+ opacity: 0.5;
+}
+
+.table-style {
+    text-align: center;
+    width: 250px;
+    margin: .5em auto;
+}
+
+.table-style, thead, tr{
+    
+    /* border: 1px solid white; */
+    /* border-collapse: collapse; */
+}
+
+td {
+    /* background-color: aliceblue; */
+    padding: 1em;
+}
+
