@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/holy-times/static/css/main.006cdd9e.css",
+    "main.js": "/holy-times/static/js/main.8bb86a62.js",
+    "static/media/menachem-weinreb-qgyyK3QVy9g-unsplash.jpg": "/holy-times/static/media/menachem-weinreb-qgyyK3QVy9g-unsplash.f3be53432c57c5fabc67.jpg",
+    "index.html": "/holy-times/index.html",
+    "main.006cdd9e.css.map": "/holy-times/static/css/main.006cdd9e.css.map",
+    "main.8bb86a62.js.map": "/holy-times/static/js/main.8bb86a62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006cdd9e.css",
+    "static/js/main.8bb86a62.js"
+  ]
+}
